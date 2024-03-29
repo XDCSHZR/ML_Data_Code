@@ -1,0 +1,197 @@
+2023-04-10 10:53:20.506 | INFO     | __main__:train:17 - Epoch: [1/100], Step: [1/399], Lr: 0.000000, loss0: 0.726277, loss1: 0.776980, loss2: 0.805896, loss3: 0.806674, loss: 3.115827
+2023-04-10 10:53:33.701 | INFO     | __main__:train:17 - Epoch: [1/100], Step: [101/399], Lr: 0.000000, loss0: 0.720843, loss1: 0.789257, loss2: 0.815549, loss3: 0.835113, loss: 3.160763
+2023-04-10 10:53:46.830 | INFO     | __main__:train:17 - Epoch: [1/100], Step: [201/399], Lr: 0.000000, loss0: 0.739286, loss1: 0.797041, loss2: 0.811811, loss3: 0.804948, loss: 3.153086
+2023-04-10 10:53:59.744 | INFO     | __main__:train:17 - Epoch: [1/100], Step: [301/399], Lr: 0.000000, loss0: 0.741099, loss1: 0.787701, loss2: 0.815981, loss3: 0.795276, loss: 3.140056
+2023-04-10 10:54:14.126 | INFO     | __main__:val:33 - Eval set: Average loss: 3.002951, Average loss0: 0.727805, Average loss1: 0.746804, Average loss2: 0.766603, Average loss3: 0.761738, AUC0: 0.485730, AUC1: 0.506301, AUC2: 0.545663, AUC3: 0.510753
+2023-04-10 10:54:14.446 | INFO     | __main__:val:40 - Save model with loss: 0.761738, AUC0: 0.485730, AUC1: 0.506301, AUC2: 0.545663, AUC3: 0.510753
+2023-04-10 10:54:15.434 | INFO     | __main__:train:17 - Epoch: [2/100], Step: [1/399], Lr: 0.000200, loss0: 0.746413, loss1: 0.786069, loss2: 0.804405, loss3: 0.808531, loss: 3.145417
+2023-04-10 10:54:28.843 | INFO     | __main__:train:17 - Epoch: [2/100], Step: [101/399], Lr: 0.000200, loss0: 0.502307, loss1: 0.219845, loss2: 0.052124, loss3: 0.048249, loss: 0.822524
+2023-04-10 10:54:41.872 | INFO     | __main__:train:17 - Epoch: [2/100], Step: [201/399], Lr: 0.000200, loss0: 0.432676, loss1: 0.183878, loss2: 0.049812, loss3: 0.050597, loss: 0.716964
+2023-04-10 10:54:54.502 | INFO     | __main__:train:17 - Epoch: [2/100], Step: [301/399], Lr: 0.000200, loss0: 0.416813, loss1: 0.155196, loss2: 0.042243, loss3: 0.047636, loss: 0.661889
+2023-04-10 10:55:08.963 | INFO     | __main__:val:33 - Eval set: Average loss: 0.633484, Average loss0: 0.428458, Average loss1: 0.164136, Average loss2: 0.022258, Average loss3: 0.018632, AUC0: 0.656310, AUC1: 0.632706, AUC2: 0.571899, AUC3: 0.558823
+2023-04-10 10:55:09.230 | INFO     | __main__:val:40 - Save model with loss: 0.018632, AUC0: 0.656310, AUC1: 0.632706, AUC2: 0.571899, AUC3: 0.558823
+2023-04-10 10:55:10.107 | INFO     | __main__:train:17 - Epoch: [3/100], Step: [1/399], Lr: 0.000400, loss0: 0.472453, loss1: 0.221741, loss2: 0.057493, loss3: 0.045459, loss: 0.797146
+2023-04-10 10:55:23.055 | INFO     | __main__:train:17 - Epoch: [3/100], Step: [101/399], Lr: 0.000400, loss0: 0.463589, loss1: 0.178485, loss2: 0.022859, loss3: 0.019517, loss: 0.684449
+2023-04-10 10:55:36.262 | INFO     | __main__:train:17 - Epoch: [3/100], Step: [201/399], Lr: 0.000400, loss0: 0.427392, loss1: 0.197080, loss2: 0.018300, loss3: 0.030043, loss: 0.672815
+2023-04-10 10:55:49.270 | INFO     | __main__:train:17 - Epoch: [3/100], Step: [301/399], Lr: 0.000400, loss0: 0.419293, loss1: 0.172031, loss2: 0.038128, loss3: 0.035913, loss: 0.665364
+2023-04-10 10:56:03.922 | INFO     | __main__:val:33 - Eval set: Average loss: 0.622741, Average loss0: 0.424188, Average loss1: 0.159663, Average loss2: 0.020973, Average loss3: 0.017918, AUC0: 0.680242, AUC1: 0.684311, AUC2: 0.589632, AUC3: 0.575461
+2023-04-10 10:56:04.189 | INFO     | __main__:val:40 - Save model with loss: 0.017918, AUC0: 0.680242, AUC1: 0.684311, AUC2: 0.589632, AUC3: 0.575461
+2023-04-10 10:56:05.093 | INFO     | __main__:train:17 - Epoch: [4/100], Step: [1/399], Lr: 0.000600, loss0: 0.416825, loss1: 0.155634, loss2: 0.051795, loss3: 0.042969, loss: 0.667223
+2023-04-10 10:56:18.292 | INFO     | __main__:train:17 - Epoch: [4/100], Step: [101/399], Lr: 0.000600, loss0: 0.446150, loss1: 0.195844, loss2: 0.032231, loss3: 0.028351, loss: 0.702576
+2023-04-10 10:56:31.281 | INFO     | __main__:train:17 - Epoch: [4/100], Step: [201/399], Lr: 0.000600, loss0: 0.475911, loss1: 0.239075, loss2: 0.082011, loss3: 0.065877, loss: 0.862874
+2023-04-10 10:56:44.247 | INFO     | __main__:train:17 - Epoch: [4/100], Step: [301/399], Lr: 0.000600, loss0: 0.440631, loss1: 0.157812, loss2: 0.015252, loss3: 0.012166, loss: 0.625861
+2023-04-10 10:56:58.697 | INFO     | __main__:val:33 - Eval set: Average loss: 0.615696, Average loss0: 0.419961, Average loss1: 0.156456, Average loss2: 0.021265, Average loss3: 0.018014, AUC0: 0.687555, AUC1: 0.709556, AUC2: 0.596435, AUC3: 0.574506
+2023-04-10 10:56:59.601 | INFO     | __main__:train:17 - Epoch: [5/100], Step: [1/399], Lr: 0.000800, loss0: 0.433259, loss1: 0.154512, loss2: 0.016787, loss3: 0.019465, loss: 0.624023
+2023-04-10 10:57:13.048 | INFO     | __main__:train:17 - Epoch: [5/100], Step: [101/399], Lr: 0.000800, loss0: 0.410956, loss1: 0.158276, loss2: 0.017441, loss3: 0.017579, loss: 0.604252
+2023-04-10 10:57:26.583 | INFO     | __main__:train:17 - Epoch: [5/100], Step: [201/399], Lr: 0.000800, loss0: 0.387295, loss1: 0.127778, loss2: 0.012320, loss3: 0.008364, loss: 0.535757
+2023-04-10 10:57:40.144 | INFO     | __main__:train:17 - Epoch: [5/100], Step: [301/399], Lr: 0.000800, loss0: 0.439250, loss1: 0.165712, loss2: 0.038044, loss3: 0.032014, loss: 0.675020
+2023-04-10 10:57:54.917 | INFO     | __main__:val:33 - Eval set: Average loss: 0.619841, Average loss0: 0.421084, Average loss1: 0.159436, Average loss2: 0.021629, Average loss3: 0.017693, AUC0: 0.678831, AUC1: 0.713554, AUC2: 0.622804, AUC3: 0.617557
+2023-04-10 10:57:55.185 | INFO     | __main__:val:40 - Save model with loss: 0.017693, AUC0: 0.678831, AUC1: 0.713554, AUC2: 0.622804, AUC3: 0.617557
+2023-04-10 10:57:56.111 | INFO     | __main__:train:17 - Epoch: [6/100], Step: [1/399], Lr: 0.001000, loss0: 0.447778, loss1: 0.167662, loss2: 0.022623, loss3: 0.018478, loss: 0.656541
+2023-04-10 10:58:09.818 | INFO     | __main__:train:17 - Epoch: [6/100], Step: [101/399], Lr: 0.001000, loss0: 0.425089, loss1: 0.126146, loss2: 0.017077, loss3: 0.017778, loss: 0.586090
+2023-04-10 10:58:23.333 | INFO     | __main__:train:17 - Epoch: [6/100], Step: [201/399], Lr: 0.001000, loss0: 0.424945, loss1: 0.161299, loss2: 0.043806, loss3: 0.035482, loss: 0.665532
+2023-04-10 10:58:36.956 | INFO     | __main__:train:17 - Epoch: [6/100], Step: [301/399], Lr: 0.001000, loss0: 0.449921, loss1: 0.168500, loss2: 0.015225, loss3: 0.013041, loss: 0.646688
+2023-04-10 10:58:52.421 | INFO     | __main__:val:33 - Eval set: Average loss: 0.615002, Average loss0: 0.421211, Average loss1: 0.155740, Average loss2: 0.020997, Average loss3: 0.017054, AUC0: 0.688485, AUC1: 0.717689, AUC2: 0.614873, AUC3: 0.653191
+2023-04-10 10:58:52.687 | INFO     | __main__:val:40 - Save model with loss: 0.017054, AUC0: 0.688485, AUC1: 0.717689, AUC2: 0.614873, AUC3: 0.653191
+2023-04-10 10:58:53.574 | INFO     | __main__:train:17 - Epoch: [7/100], Step: [1/399], Lr: 0.001000, loss0: 0.426829, loss1: 0.170976, loss2: 0.031330, loss3: 0.021998, loss: 0.651133
+2023-04-10 10:59:07.223 | INFO     | __main__:train:17 - Epoch: [7/100], Step: [101/399], Lr: 0.001000, loss0: 0.432607, loss1: 0.154481, loss2: 0.015939, loss3: 0.014437, loss: 0.617464
+2023-04-10 10:59:20.763 | INFO     | __main__:train:17 - Epoch: [7/100], Step: [201/399], Lr: 0.001000, loss0: 0.445768, loss1: 0.196339, loss2: 0.026934, loss3: 0.026361, loss: 0.695402
+2023-04-10 10:59:34.048 | INFO     | __main__:train:17 - Epoch: [7/100], Step: [301/399], Lr: 0.001000, loss0: 0.418493, loss1: 0.186644, loss2: 0.046729, loss3: 0.024718, loss: 0.676584
+2023-04-10 10:59:48.805 | INFO     | __main__:val:33 - Eval set: Average loss: 0.614703, Average loss0: 0.417815, Average loss1: 0.157953, Average loss2: 0.020983, Average loss3: 0.017951, AUC0: 0.687949, AUC1: 0.712363, AUC2: 0.614727, AUC3: 0.574857
+2023-04-10 10:59:49.719 | INFO     | __main__:train:17 - Epoch: [8/100], Step: [1/399], Lr: 0.001000, loss0: 0.438775, loss1: 0.186245, loss2: 0.017845, loss3: 0.022338, loss: 0.665203
+2023-04-10 11:00:03.534 | INFO     | __main__:train:17 - Epoch: [8/100], Step: [101/399], Lr: 0.001000, loss0: 0.401999, loss1: 0.139374, loss2: 0.010551, loss3: 0.003575, loss: 0.555499
+2023-04-10 11:00:17.283 | INFO     | __main__:train:17 - Epoch: [8/100], Step: [201/399], Lr: 0.001000, loss0: 0.422346, loss1: 0.178359, loss2: 0.015856, loss3: 0.015637, loss: 0.632198
+2023-04-10 11:00:30.555 | INFO     | __main__:train:17 - Epoch: [8/100], Step: [301/399], Lr: 0.001000, loss0: 0.464580, loss1: 0.165569, loss2: 0.012847, loss3: 0.010997, loss: 0.653993
+2023-04-10 11:00:45.166 | INFO     | __main__:val:33 - Eval set: Average loss: 0.613213, Average loss0: 0.417635, Average loss1: 0.156540, Average loss2: 0.021438, Average loss3: 0.017600, AUC0: 0.687458, AUC1: 0.712354, AUC2: 0.632813, AUC3: 0.649266
+2023-04-10 11:00:46.045 | INFO     | __main__:train:17 - Epoch: [9/100], Step: [1/399], Lr: 0.001000, loss0: 0.423812, loss1: 0.159445, loss2: 0.009702, loss3: 0.014164, loss: 0.607123
+2023-04-10 11:00:59.378 | INFO     | __main__:train:17 - Epoch: [9/100], Step: [101/399], Lr: 0.001000, loss0: 0.419647, loss1: 0.145817, loss2: 0.004394, loss3: 0.003599, loss: 0.573458
+2023-04-10 11:01:12.596 | INFO     | __main__:train:17 - Epoch: [9/100], Step: [201/399], Lr: 0.001000, loss0: 0.417480, loss1: 0.176599, loss2: 0.033654, loss3: 0.027635, loss: 0.655367
+2023-04-10 11:01:25.951 | INFO     | __main__:train:17 - Epoch: [9/100], Step: [301/399], Lr: 0.001000, loss0: 0.417639, loss1: 0.164378, loss2: 0.016938, loss3: 0.017899, loss: 0.616854
+2023-04-10 11:01:40.887 | INFO     | __main__:val:33 - Eval set: Average loss: 0.616873, Average loss0: 0.419842, Average loss1: 0.157721, Average loss2: 0.021790, Average loss3: 0.017521, AUC0: 0.687242, AUC1: 0.714196, AUC2: 0.606676, AUC3: 0.648806
+2023-04-10 11:01:41.926 | INFO     | __main__:train:17 - Epoch: [10/100], Step: [1/399], Lr: 0.001000, loss0: 0.430413, loss1: 0.162885, loss2: 0.011785, loss3: 0.003470, loss: 0.608554
+2023-04-10 11:01:55.370 | INFO     | __main__:train:17 - Epoch: [10/100], Step: [101/399], Lr: 0.001000, loss0: 0.404081, loss1: 0.145365, loss2: 0.008046, loss3: 0.006908, loss: 0.564399
+2023-04-10 11:02:08.895 | INFO     | __main__:train:17 - Epoch: [10/100], Step: [201/399], Lr: 0.001000, loss0: 0.381226, loss1: 0.141349, loss2: 0.020376, loss3: 0.018995, loss: 0.561947
+2023-04-10 11:02:22.144 | INFO     | __main__:train:17 - Epoch: [10/100], Step: [301/399], Lr: 0.001000, loss0: 0.422463, loss1: 0.204045, loss2: 0.027285, loss3: 0.023899, loss: 0.677692
+2023-04-10 11:02:37.162 | INFO     | __main__:val:33 - Eval set: Average loss: 0.616721, Average loss0: 0.418672, Average loss1: 0.156893, Average loss2: 0.022716, Average loss3: 0.018440, AUC0: 0.690549, AUC1: 0.714919, AUC2: 0.586145, AUC3: 0.614989
+2023-04-10 11:02:38.071 | INFO     | __main__:train:17 - Epoch: [11/100], Step: [1/399], Lr: 0.000100, loss0: 0.421375, loss1: 0.169914, loss2: 0.030146, loss3: 0.023854, loss: 0.645290
+2023-04-10 11:02:51.316 | INFO     | __main__:train:17 - Epoch: [11/100], Step: [101/399], Lr: 0.000100, loss0: 0.362578, loss1: 0.151818, loss2: 0.031342, loss3: 0.016233, loss: 0.561971
+2023-04-10 11:03:04.610 | INFO     | __main__:train:17 - Epoch: [11/100], Step: [201/399], Lr: 0.000100, loss0: 0.376101, loss1: 0.134496, loss2: 0.022485, loss3: 0.012848, loss: 0.545930
+2023-04-10 11:03:18.270 | INFO     | __main__:train:17 - Epoch: [11/100], Step: [301/399], Lr: 0.000100, loss0: 0.424590, loss1: 0.149296, loss2: 0.028436, loss3: 0.023620, loss: 0.625941
+2023-04-10 11:03:33.546 | INFO     | __main__:val:33 - Eval set: Average loss: 0.615434, Average loss0: 0.416360, Average loss1: 0.157362, Average loss2: 0.023005, Average loss3: 0.018707, AUC0: 0.692800, AUC1: 0.714450, AUC2: 0.564995, AUC3: 0.589567
+2023-04-10 11:03:34.492 | INFO     | __main__:train:17 - Epoch: [12/100], Step: [1/399], Lr: 0.000100, loss0: 0.424935, loss1: 0.184465, loss2: 0.009743, loss3: 0.008247, loss: 0.627390
+2023-04-10 11:03:48.124 | INFO     | __main__:train:17 - Epoch: [12/100], Step: [101/399], Lr: 0.000100, loss0: 0.378271, loss1: 0.133755, loss2: 0.003340, loss3: 0.002645, loss: 0.518011
+2023-04-10 11:04:01.616 | INFO     | __main__:train:17 - Epoch: [12/100], Step: [201/399], Lr: 0.000100, loss0: 0.424964, loss1: 0.157896, loss2: 0.018315, loss3: 0.010767, loss: 0.611942
+2023-04-10 11:04:15.363 | INFO     | __main__:train:17 - Epoch: [12/100], Step: [301/399], Lr: 0.000100, loss0: 0.416897, loss1: 0.132729, loss2: 0.003700, loss3: 0.003770, loss: 0.557097
+2023-04-10 11:04:30.087 | INFO     | __main__:val:33 - Eval set: Average loss: 0.618087, Average loss0: 0.416630, Average loss1: 0.158158, Average loss2: 0.023886, Average loss3: 0.019413, AUC0: 0.692138, AUC1: 0.711232, AUC2: 0.563133, AUC3: 0.585076
+2023-04-10 11:04:31.122 | INFO     | __main__:train:17 - Epoch: [13/100], Step: [1/399], Lr: 0.000100, loss0: 0.418600, loss1: 0.171573, loss2: 0.034759, loss3: 0.020473, loss: 0.645405
+2023-04-10 11:04:44.753 | INFO     | __main__:train:17 - Epoch: [13/100], Step: [101/399], Lr: 0.000100, loss0: 0.415417, loss1: 0.149061, loss2: 0.012004, loss3: 0.011868, loss: 0.588351
+2023-04-10 11:04:57.874 | INFO     | __main__:train:17 - Epoch: [13/100], Step: [201/399], Lr: 0.000100, loss0: 0.422755, loss1: 0.145480, loss2: 0.005225, loss3: 0.008674, loss: 0.582133
+2023-04-10 11:05:10.886 | INFO     | __main__:train:17 - Epoch: [13/100], Step: [301/399], Lr: 0.000100, loss0: 0.373283, loss1: 0.147434, loss2: 0.019810, loss3: 0.017891, loss: 0.558419
+2023-04-10 11:05:25.380 | INFO     | __main__:val:33 - Eval set: Average loss: 0.622492, Average loss0: 0.417725, Average loss1: 0.159265, Average loss2: 0.025070, Average loss3: 0.020432, AUC0: 0.692026, AUC1: 0.707796, AUC2: 0.544562, AUC3: 0.568278
+2023-04-10 11:05:26.362 | INFO     | __main__:train:17 - Epoch: [14/100], Step: [1/399], Lr: 0.000100, loss0: 0.415359, loss1: 0.151396, loss2: 0.005474, loss3: 0.004794, loss: 0.577023
+2023-04-10 11:05:39.434 | INFO     | __main__:train:17 - Epoch: [14/100], Step: [101/399], Lr: 0.000100, loss0: 0.394630, loss1: 0.160750, loss2: 0.002868, loss3: 0.001947, loss: 0.560196
+2023-04-10 11:05:52.350 | INFO     | __main__:train:17 - Epoch: [14/100], Step: [201/399], Lr: 0.000100, loss0: 0.424309, loss1: 0.161511, loss2: 0.023882, loss3: 0.018669, loss: 0.628371
+2023-04-10 11:06:05.418 | INFO     | __main__:train:17 - Epoch: [14/100], Step: [301/399], Lr: 0.000100, loss0: 0.395040, loss1: 0.147774, loss2: 0.031467, loss3: 0.025978, loss: 0.600258
+2023-04-10 11:06:20.093 | INFO     | __main__:val:33 - Eval set: Average loss: 0.625421, Average loss0: 0.417509, Average loss1: 0.159905, Average loss2: 0.026502, Average loss3: 0.021506, AUC0: 0.690686, AUC1: 0.704547, AUC2: 0.536216, AUC3: 0.564461
+2023-04-10 11:06:21.069 | INFO     | __main__:train:17 - Epoch: [15/100], Step: [1/399], Lr: 0.000100, loss0: 0.384951, loss1: 0.134947, loss2: 0.016555, loss3: 0.008769, loss: 0.545222
+2023-04-10 11:06:34.217 | INFO     | __main__:train:17 - Epoch: [15/100], Step: [101/399], Lr: 0.000100, loss0: 0.387549, loss1: 0.144697, loss2: 0.030798, loss3: 0.010661, loss: 0.573704
+2023-04-10 11:06:47.271 | INFO     | __main__:train:17 - Epoch: [15/100], Step: [201/399], Lr: 0.000100, loss0: 0.440317, loss1: 0.174834, loss2: 0.011714, loss3: 0.016086, loss: 0.642951
+2023-04-10 11:06:59.933 | INFO     | __main__:train:17 - Epoch: [15/100], Step: [301/399], Lr: 0.000100, loss0: 0.398297, loss1: 0.141398, loss2: 0.010055, loss3: 0.017095, loss: 0.566845
+2023-04-10 11:07:14.524 | INFO     | __main__:val:33 - Eval set: Average loss: 0.629653, Average loss0: 0.418671, Average loss1: 0.161398, Average loss2: 0.027160, Average loss3: 0.022424, AUC0: 0.691847, AUC1: 0.703278, AUC2: 0.542186, AUC3: 0.563278
+2023-04-10 11:07:15.529 | INFO     | __main__:train:17 - Epoch: [16/100], Step: [1/399], Lr: 0.000100, loss0: 0.448500, loss1: 0.170299, loss2: 0.013341, loss3: 0.008415, loss: 0.640555
+2023-04-10 11:07:28.307 | INFO     | __main__:train:17 - Epoch: [16/100], Step: [101/399], Lr: 0.000100, loss0: 0.436698, loss1: 0.164626, loss2: 0.015923, loss3: 0.009984, loss: 0.627231
+2023-04-10 11:07:40.646 | INFO     | __main__:train:17 - Epoch: [16/100], Step: [201/399], Lr: 0.000100, loss0: 0.405528, loss1: 0.174854, loss2: 0.016371, loss3: 0.016004, loss: 0.612756
+2023-04-10 11:07:53.142 | INFO     | __main__:train:17 - Epoch: [16/100], Step: [301/399], Lr: 0.000100, loss0: 0.421269, loss1: 0.159956, loss2: 0.010527, loss3: 0.010131, loss: 0.601882
+2023-04-10 11:08:07.142 | INFO     | __main__:val:33 - Eval set: Average loss: 0.635101, Average loss0: 0.419257, Average loss1: 0.162450, Average loss2: 0.029081, Average loss3: 0.024313, AUC0: 0.690074, AUC1: 0.700316, AUC2: 0.531884, AUC3: 0.547923
+2023-04-10 11:08:08.136 | INFO     | __main__:train:17 - Epoch: [17/100], Step: [1/399], Lr: 0.000100, loss0: 0.413107, loss1: 0.168533, loss2: 0.012233, loss3: 0.011190, loss: 0.605062
+2023-04-10 11:08:21.194 | INFO     | __main__:train:17 - Epoch: [17/100], Step: [101/399], Lr: 0.000100, loss0: 0.398192, loss1: 0.121764, loss2: 0.002831, loss3: 0.001889, loss: 0.524677
+2023-04-10 11:08:34.065 | INFO     | __main__:train:17 - Epoch: [17/100], Step: [201/399], Lr: 0.000100, loss0: 0.383511, loss1: 0.165246, loss2: 0.006384, loss3: 0.002639, loss: 0.557779
+2023-04-10 11:08:46.501 | INFO     | __main__:train:17 - Epoch: [17/100], Step: [301/399], Lr: 0.000100, loss0: 0.389181, loss1: 0.146704, loss2: 0.012894, loss3: 0.014185, loss: 0.562964
+2023-04-10 11:09:00.595 | INFO     | __main__:val:33 - Eval set: Average loss: 0.640086, Average loss0: 0.420658, Average loss1: 0.164299, Average loss2: 0.030148, Average loss3: 0.024982, AUC0: 0.687360, AUC1: 0.695953, AUC2: 0.519769, AUC3: 0.532752
+2023-04-10 11:09:01.615 | INFO     | __main__:train:17 - Epoch: [18/100], Step: [1/399], Lr: 0.000100, loss0: 0.392536, loss1: 0.138250, loss2: 0.015208, loss3: 0.009385, loss: 0.555380
+2023-04-10 11:09:14.648 | INFO     | __main__:train:17 - Epoch: [18/100], Step: [101/399], Lr: 0.000100, loss0: 0.393836, loss1: 0.126744, loss2: 0.005198, loss3: 0.006389, loss: 0.532168
+2023-04-10 11:09:27.391 | INFO     | __main__:train:17 - Epoch: [18/100], Step: [201/399], Lr: 0.000100, loss0: 0.392165, loss1: 0.133197, loss2: 0.013622, loss3: 0.011829, loss: 0.550813
+2023-04-10 11:09:39.838 | INFO     | __main__:train:17 - Epoch: [18/100], Step: [301/399], Lr: 0.000100, loss0: 0.396386, loss1: 0.136641, loss2: 0.011884, loss3: 0.007001, loss: 0.551912
+2023-04-10 11:09:54.090 | INFO     | __main__:val:33 - Eval set: Average loss: 0.646700, Average loss0: 0.421745, Average loss1: 0.166231, Average loss2: 0.032128, Average loss3: 0.026596, AUC0: 0.687947, AUC1: 0.693292, AUC2: 0.520110, AUC3: 0.538113
+2023-04-10 11:09:55.147 | INFO     | __main__:train:17 - Epoch: [19/100], Step: [1/399], Lr: 0.000100, loss0: 0.395471, loss1: 0.147117, loss2: 0.016390, loss3: 0.004877, loss: 0.563854
+2023-04-10 11:10:08.206 | INFO     | __main__:train:17 - Epoch: [19/100], Step: [101/399], Lr: 0.000100, loss0: 0.393084, loss1: 0.134271, loss2: 0.003907, loss3: 0.003363, loss: 0.534625
+2023-04-10 11:10:20.850 | INFO     | __main__:train:17 - Epoch: [19/100], Step: [201/399], Lr: 0.000100, loss0: 0.401561, loss1: 0.144621, loss2: 0.017701, loss3: 0.011970, loss: 0.575853
+2023-04-10 11:10:33.374 | INFO     | __main__:train:17 - Epoch: [19/100], Step: [301/399], Lr: 0.000100, loss0: 0.405684, loss1: 0.184321, loss2: 0.012769, loss3: 0.009816, loss: 0.612590
+2023-04-10 11:10:47.462 | INFO     | __main__:val:33 - Eval set: Average loss: 0.651563, Average loss0: 0.422706, Average loss1: 0.167471, Average loss2: 0.033477, Average loss3: 0.027909, AUC0: 0.688272, AUC1: 0.692102, AUC2: 0.516143, AUC3: 0.534050
+2023-04-10 11:10:48.453 | INFO     | __main__:train:17 - Epoch: [20/100], Step: [1/399], Lr: 0.000100, loss0: 0.369293, loss1: 0.135748, loss2: 0.005998, loss3: 0.005874, loss: 0.516913
+2023-04-10 11:11:01.181 | INFO     | __main__:train:17 - Epoch: [20/100], Step: [101/399], Lr: 0.000100, loss0: 0.424637, loss1: 0.148933, loss2: 0.008327, loss3: 0.005355, loss: 0.587252
+2023-04-10 11:11:13.935 | INFO     | __main__:train:17 - Epoch: [20/100], Step: [201/399], Lr: 0.000100, loss0: 0.371979, loss1: 0.176731, loss2: 0.013682, loss3: 0.006464, loss: 0.568858
+2023-04-10 11:11:26.824 | INFO     | __main__:train:17 - Epoch: [20/100], Step: [301/399], Lr: 0.000100, loss0: 0.378317, loss1: 0.156223, loss2: 0.011800, loss3: 0.009229, loss: 0.555568
+2023-04-10 11:11:41.106 | INFO     | __main__:val:33 - Eval set: Average loss: 0.659654, Average loss0: 0.424411, Average loss1: 0.169214, Average loss2: 0.035947, Average loss3: 0.030082, AUC0: 0.686894, AUC1: 0.688129, AUC2: 0.497741, AUC3: 0.506502
+2023-04-10 11:11:42.024 | INFO     | __main__:train:17 - Epoch: [21/100], Step: [1/399], Lr: 0.000010, loss0: 0.391795, loss1: 0.138074, loss2: 0.011947, loss3: 0.006191, loss: 0.548007
+2023-04-10 11:11:54.672 | INFO     | __main__:train:17 - Epoch: [21/100], Step: [101/399], Lr: 0.000010, loss0: 0.387131, loss1: 0.125473, loss2: 0.012893, loss3: 0.011907, loss: 0.537405
+2023-04-10 11:12:07.093 | INFO     | __main__:train:17 - Epoch: [21/100], Step: [201/399], Lr: 0.000010, loss0: 0.398354, loss1: 0.140209, loss2: 0.017997, loss3: 0.005885, loss: 0.562444
+2023-04-10 11:12:19.303 | INFO     | __main__:train:17 - Epoch: [21/100], Step: [301/399], Lr: 0.000010, loss0: 0.380687, loss1: 0.139053, loss2: 0.005009, loss3: 0.004143, loss: 0.528892
+2023-04-10 11:12:33.273 | INFO     | __main__:val:33 - Eval set: Average loss: 0.662391, Average loss0: 0.425005, Average loss1: 0.169974, Average loss2: 0.036651, Average loss3: 0.030761, AUC0: 0.686695, AUC1: 0.686793, AUC2: 0.497577, AUC3: 0.506605
+2023-04-10 11:12:34.285 | INFO     | __main__:train:17 - Epoch: [22/100], Step: [1/399], Lr: 0.000010, loss0: 0.392951, loss1: 0.149849, loss2: 0.008696, loss3: 0.006205, loss: 0.557701
+2023-04-10 11:12:46.874 | INFO     | __main__:train:17 - Epoch: [22/100], Step: [101/399], Lr: 0.000010, loss0: 0.395101, loss1: 0.139658, loss2: 0.006241, loss3: 0.005595, loss: 0.546595
+2023-04-10 11:12:59.181 | INFO     | __main__:train:17 - Epoch: [22/100], Step: [201/399], Lr: 0.000010, loss0: 0.383120, loss1: 0.126609, loss2: 0.009671, loss3: 0.013503, loss: 0.532902
+2023-04-10 11:13:11.498 | INFO     | __main__:train:17 - Epoch: [22/100], Step: [301/399], Lr: 0.000010, loss0: 0.379244, loss1: 0.135295, loss2: 0.017175, loss3: 0.010360, loss: 0.542074
+2023-04-10 11:13:25.684 | INFO     | __main__:val:33 - Eval set: Average loss: 0.664126, Average loss0: 0.425389, Average loss1: 0.170565, Average loss2: 0.036975, Average loss3: 0.031197, AUC0: 0.686565, AUC1: 0.686371, AUC2: 0.497595, AUC3: 0.506793
+2023-04-10 11:13:26.760 | INFO     | __main__:train:17 - Epoch: [23/100], Step: [1/399], Lr: 0.000010, loss0: 0.355160, loss1: 0.133874, loss2: 0.007413, loss3: 0.006724, loss: 0.503171
+2023-04-10 11:13:39.597 | INFO     | __main__:train:17 - Epoch: [23/100], Step: [101/399], Lr: 0.000010, loss0: 0.341867, loss1: 0.125467, loss2: 0.016696, loss3: 0.008351, loss: 0.492380
+2023-04-10 11:13:52.070 | INFO     | __main__:train:17 - Epoch: [23/100], Step: [201/399], Lr: 0.000010, loss0: 0.372668, loss1: 0.119920, loss2: 0.012193, loss3: 0.004212, loss: 0.508994
+2023-04-10 11:14:04.594 | INFO     | __main__:train:17 - Epoch: [23/100], Step: [301/399], Lr: 0.000010, loss0: 0.371628, loss1: 0.155067, loss2: 0.015349, loss3: 0.011269, loss: 0.553313
+2023-04-10 11:14:18.627 | INFO     | __main__:val:33 - Eval set: Average loss: 0.666343, Average loss0: 0.426108, Average loss1: 0.171346, Average loss2: 0.037324, Average loss3: 0.031564, AUC0: 0.686541, AUC1: 0.684976, AUC2: 0.495863, AUC3: 0.504742
+2023-04-10 11:14:19.630 | INFO     | __main__:train:17 - Epoch: [24/100], Step: [1/399], Lr: 0.000010, loss0: 0.413578, loss1: 0.126169, loss2: 0.007883, loss3: 0.008778, loss: 0.556408
+2023-04-10 11:14:32.727 | INFO     | __main__:train:17 - Epoch: [24/100], Step: [101/399], Lr: 0.000010, loss0: 0.400078, loss1: 0.123249, loss2: 0.013545, loss3: 0.013591, loss: 0.550462
+2023-04-10 11:14:45.554 | INFO     | __main__:train:17 - Epoch: [24/100], Step: [201/399], Lr: 0.000010, loss0: 0.379424, loss1: 0.128237, loss2: 0.005836, loss3: 0.004653, loss: 0.518150
+2023-04-10 11:14:57.959 | INFO     | __main__:train:17 - Epoch: [24/100], Step: [301/399], Lr: 0.000010, loss0: 0.382605, loss1: 0.122971, loss2: 0.017954, loss3: 0.012947, loss: 0.536478
+2023-04-10 11:15:12.277 | INFO     | __main__:val:33 - Eval set: Average loss: 0.667872, Average loss0: 0.426464, Average loss1: 0.171882, Average loss2: 0.037636, Average loss3: 0.031891, AUC0: 0.685968, AUC1: 0.684266, AUC2: 0.497032, AUC3: 0.505575
+2023-04-10 11:15:13.346 | INFO     | __main__:train:17 - Epoch: [25/100], Step: [1/399], Lr: 0.000010, loss0: 0.396060, loss1: 0.144851, loss2: 0.014562, loss3: 0.012647, loss: 0.568119
+2023-04-10 11:15:25.828 | INFO     | __main__:train:17 - Epoch: [25/100], Step: [101/399], Lr: 0.000010, loss0: 0.389133, loss1: 0.126134, loss2: 0.004489, loss3: 0.003423, loss: 0.523179
+2023-04-10 11:15:38.230 | INFO     | __main__:train:17 - Epoch: [25/100], Step: [201/399], Lr: 0.000010, loss0: 0.363149, loss1: 0.143767, loss2: 0.005881, loss3: 0.006873, loss: 0.519670
+2023-04-10 11:15:50.675 | INFO     | __main__:train:17 - Epoch: [25/100], Step: [301/399], Lr: 0.000010, loss0: 0.385536, loss1: 0.138902, loss2: 0.012067, loss3: 0.013762, loss: 0.550267
+2023-04-10 11:16:04.633 | INFO     | __main__:val:33 - Eval set: Average loss: 0.669149, Average loss0: 0.426744, Average loss1: 0.172339, Average loss2: 0.037892, Average loss3: 0.032174, AUC0: 0.685815, AUC1: 0.683535, AUC2: 0.494011, AUC3: 0.503109
+2023-04-10 11:16:05.571 | INFO     | __main__:train:17 - Epoch: [26/100], Step: [1/399], Lr: 0.000010, loss0: 0.387188, loss1: 0.124106, loss2: 0.007148, loss3: 0.005616, loss: 0.524059
+2023-04-10 11:16:18.344 | INFO     | __main__:train:17 - Epoch: [26/100], Step: [101/399], Lr: 0.000010, loss0: 0.364011, loss1: 0.150931, loss2: 0.009460, loss3: 0.004827, loss: 0.529230
+2023-04-10 11:16:30.831 | INFO     | __main__:train:17 - Epoch: [26/100], Step: [201/399], Lr: 0.000010, loss0: 0.361848, loss1: 0.132371, loss2: 0.005315, loss3: 0.003122, loss: 0.502656
+2023-04-10 11:16:43.292 | INFO     | __main__:train:17 - Epoch: [26/100], Step: [301/399], Lr: 0.000010, loss0: 0.413169, loss1: 0.171608, loss2: 0.013790, loss3: 0.010385, loss: 0.608952
+2023-04-10 11:16:57.391 | INFO     | __main__:val:33 - Eval set: Average loss: 0.670595, Average loss0: 0.427122, Average loss1: 0.172622, Average loss2: 0.038284, Average loss3: 0.032567, AUC0: 0.685758, AUC1: 0.683584, AUC2: 0.492575, AUC3: 0.502794
+2023-04-10 11:16:58.449 | INFO     | __main__:train:17 - Epoch: [27/100], Step: [1/399], Lr: 0.000010, loss0: 0.355869, loss1: 0.127819, loss2: 0.007344, loss3: 0.005637, loss: 0.496668
+2023-04-10 11:17:11.251 | INFO     | __main__:train:17 - Epoch: [27/100], Step: [101/399], Lr: 0.000010, loss0: 0.396489, loss1: 0.149732, loss2: 0.008011, loss3: 0.008709, loss: 0.562941
+2023-04-10 11:17:23.730 | INFO     | __main__:train:17 - Epoch: [27/100], Step: [201/399], Lr: 0.000010, loss0: 0.388145, loss1: 0.143495, loss2: 0.014307, loss3: 0.014985, loss: 0.560932
+2023-04-10 11:17:36.137 | INFO     | __main__:train:17 - Epoch: [27/100], Step: [301/399], Lr: 0.000010, loss0: 0.369794, loss1: 0.162594, loss2: 0.006927, loss3: 0.007296, loss: 0.546612
+2023-04-10 11:17:50.515 | INFO     | __main__:val:33 - Eval set: Average loss: 0.672395, Average loss0: 0.427576, Average loss1: 0.173173, Average loss2: 0.038713, Average loss3: 0.032933, AUC0: 0.685874, AUC1: 0.682836, AUC2: 0.491953, AUC3: 0.502503
+2023-04-10 11:17:51.502 | INFO     | __main__:train:17 - Epoch: [28/100], Step: [1/399], Lr: 0.000010, loss0: 0.412032, loss1: 0.129745, loss2: 0.002305, loss3: 0.001933, loss: 0.546014
+2023-04-10 11:18:04.537 | INFO     | __main__:train:17 - Epoch: [28/100], Step: [101/399], Lr: 0.000010, loss0: 0.417272, loss1: 0.163420, loss2: 0.012963, loss3: 0.012849, loss: 0.606503
+2023-04-10 11:18:16.834 | INFO     | __main__:train:17 - Epoch: [28/100], Step: [201/399], Lr: 0.000010, loss0: 0.411519, loss1: 0.151462, loss2: 0.021185, loss3: 0.017401, loss: 0.601567
+2023-04-10 11:18:29.105 | INFO     | __main__:train:17 - Epoch: [28/100], Step: [301/399], Lr: 0.000010, loss0: 0.391954, loss1: 0.152414, loss2: 0.012814, loss3: 0.010689, loss: 0.567871
+2023-04-10 11:18:43.366 | INFO     | __main__:val:33 - Eval set: Average loss: 0.673725, Average loss0: 0.427659, Average loss1: 0.173645, Average loss2: 0.039078, Average loss3: 0.033343, AUC0: 0.685718, AUC1: 0.682440, AUC2: 0.493513, AUC3: 0.503030
+2023-04-10 11:18:44.327 | INFO     | __main__:train:17 - Epoch: [29/100], Step: [1/399], Lr: 0.000010, loss0: 0.373634, loss1: 0.122521, loss2: 0.003725, loss3: 0.002631, loss: 0.502512
+2023-04-10 11:18:57.051 | INFO     | __main__:train:17 - Epoch: [29/100], Step: [101/399], Lr: 0.000010, loss0: 0.368597, loss1: 0.129625, loss2: 0.016333, loss3: 0.004527, loss: 0.519082
+2023-04-10 11:19:09.540 | INFO     | __main__:train:17 - Epoch: [29/100], Step: [201/399], Lr: 0.000010, loss0: 0.356751, loss1: 0.128180, loss2: 0.008851, loss3: 0.004855, loss: 0.498637
+2023-04-10 11:19:21.800 | INFO     | __main__:train:17 - Epoch: [29/100], Step: [301/399], Lr: 0.000010, loss0: 0.373678, loss1: 0.156726, loss2: 0.012863, loss3: 0.015835, loss: 0.559102
+2023-04-10 11:19:35.737 | INFO     | __main__:val:33 - Eval set: Average loss: 0.675342, Average loss0: 0.428002, Average loss1: 0.174062, Average loss2: 0.039532, Average loss3: 0.033746, AUC0: 0.685179, AUC1: 0.681148, AUC2: 0.490986, AUC3: 0.500318
+2023-04-10 11:19:36.714 | INFO     | __main__:train:17 - Epoch: [30/100], Step: [1/399], Lr: 0.000010, loss0: 0.373441, loss1: 0.116874, loss2: 0.011963, loss3: 0.011718, loss: 0.513996
+2023-04-10 11:19:49.593 | INFO     | __main__:train:17 - Epoch: [30/100], Step: [101/399], Lr: 0.000010, loss0: 0.407651, loss1: 0.131994, loss2: 0.009037, loss3: 0.007994, loss: 0.556676
+2023-04-10 11:20:02.336 | INFO     | __main__:train:17 - Epoch: [30/100], Step: [201/399], Lr: 0.000010, loss0: 0.379882, loss1: 0.139943, loss2: 0.011092, loss3: 0.003575, loss: 0.534493
+2023-04-10 11:20:15.201 | INFO     | __main__:train:17 - Epoch: [30/100], Step: [301/399], Lr: 0.000010, loss0: 0.378910, loss1: 0.140419, loss2: 0.013058, loss3: 0.006455, loss: 0.538843
+2023-04-10 11:20:29.207 | INFO     | __main__:val:33 - Eval set: Average loss: 0.675947, Average loss0: 0.428370, Average loss1: 0.174402, Average loss2: 0.039451, Average loss3: 0.033724, AUC0: 0.685268, AUC1: 0.681156, AUC2: 0.492155, AUC3: 0.501698
+2023-04-10 11:20:30.159 | INFO     | __main__:train:17 - Epoch: [31/100], Step: [1/399], Lr: 0.000001, loss0: 0.376791, loss1: 0.132848, loss2: 0.013239, loss3: 0.004372, loss: 0.527250
+2023-04-10 11:20:42.764 | INFO     | __main__:train:17 - Epoch: [31/100], Step: [101/399], Lr: 0.000001, loss0: 0.402161, loss1: 0.128157, loss2: 0.010246, loss3: 0.003565, loss: 0.544128
+2023-04-10 11:20:55.098 | INFO     | __main__:train:17 - Epoch: [31/100], Step: [201/399], Lr: 0.000001, loss0: 0.386435, loss1: 0.136928, loss2: 0.010354, loss3: 0.012053, loss: 0.545770
+2023-04-10 11:21:07.340 | INFO     | __main__:train:17 - Epoch: [31/100], Step: [301/399], Lr: 0.000001, loss0: 0.354328, loss1: 0.130990, loss2: 0.010709, loss3: 0.006978, loss: 0.503005
+2023-04-10 11:21:21.351 | INFO     | __main__:val:33 - Eval set: Average loss: 0.676078, Average loss0: 0.428387, Average loss1: 0.174445, Average loss2: 0.039486, Average loss3: 0.033759, AUC0: 0.685278, AUC1: 0.681155, AUC2: 0.492336, AUC3: 0.501857
+2023-04-10 11:21:22.389 | INFO     | __main__:train:17 - Epoch: [32/100], Step: [1/399], Lr: 0.000001, loss0: 0.381224, loss1: 0.152561, loss2: 0.007690, loss3: 0.005785, loss: 0.547261
+2023-04-10 11:21:35.360 | INFO     | __main__:train:17 - Epoch: [32/100], Step: [101/399], Lr: 0.000001, loss0: 0.384761, loss1: 0.154877, loss2: 0.005840, loss3: 0.006801, loss: 0.552280
+2023-04-10 11:21:47.977 | INFO     | __main__:train:17 - Epoch: [32/100], Step: [201/399], Lr: 0.000001, loss0: 0.372217, loss1: 0.133635, loss2: 0.015941, loss3: 0.010273, loss: 0.532067
+2023-04-10 11:22:00.434 | INFO     | __main__:train:17 - Epoch: [32/100], Step: [301/399], Lr: 0.000001, loss0: 0.380919, loss1: 0.137704, loss2: 0.022930, loss3: 0.023114, loss: 0.564667
+2023-04-10 11:22:14.544 | INFO     | __main__:val:33 - Eval set: Average loss: 0.676224, Average loss0: 0.428401, Average loss1: 0.174486, Average loss2: 0.039533, Average loss3: 0.033805, AUC0: 0.685238, AUC1: 0.681135, AUC2: 0.492395, AUC3: 0.501944
+2023-04-10 11:22:15.496 | INFO     | __main__:train:17 - Epoch: [33/100], Step: [1/399], Lr: 0.000001, loss0: 0.373718, loss1: 0.130576, loss2: 0.004144, loss3: 0.002413, loss: 0.510852
+2023-04-10 11:22:28.248 | INFO     | __main__:train:17 - Epoch: [33/100], Step: [101/399], Lr: 0.000001, loss0: 0.372981, loss1: 0.123929, loss2: 0.011995, loss3: 0.007766, loss: 0.516671
+2023-04-10 11:22:40.452 | INFO     | __main__:train:17 - Epoch: [33/100], Step: [201/399], Lr: 0.000001, loss0: 0.399695, loss1: 0.130717, loss2: 0.012098, loss3: 0.006161, loss: 0.548671
+2023-04-10 11:22:52.899 | INFO     | __main__:train:17 - Epoch: [33/100], Step: [301/399], Lr: 0.000001, loss0: 0.340483, loss1: 0.126573, loss2: 0.008312, loss3: 0.002699, loss: 0.478067
+2023-04-10 11:23:07.070 | INFO     | __main__:val:33 - Eval set: Average loss: 0.676493, Average loss0: 0.428453, Average loss1: 0.174552, Average loss2: 0.039616, Average loss3: 0.033872, AUC0: 0.685216, AUC1: 0.681066, AUC2: 0.492188, AUC3: 0.501864
+2023-04-10 11:23:08.079 | INFO     | __main__:train:17 - Epoch: [34/100], Step: [1/399], Lr: 0.000001, loss0: 0.373966, loss1: 0.154395, loss2: 0.008420, loss3: 0.010406, loss: 0.547187
+2023-04-10 11:23:20.636 | INFO     | __main__:train:17 - Epoch: [34/100], Step: [101/399], Lr: 0.000001, loss0: 0.392792, loss1: 0.125974, loss2: 0.013459, loss3: 0.014098, loss: 0.546323
+2023-04-10 11:23:32.863 | INFO     | __main__:train:17 - Epoch: [34/100], Step: [201/399], Lr: 0.000001, loss0: 0.365400, loss1: 0.128638, loss2: 0.010046, loss3: 0.001793, loss: 0.505878
+2023-04-10 11:23:45.049 | INFO     | __main__:train:17 - Epoch: [34/100], Step: [301/399], Lr: 0.000001, loss0: 0.369100, loss1: 0.146159, loss2: 0.010868, loss3: 0.010979, loss: 0.537106
+2023-04-10 11:23:59.263 | INFO     | __main__:val:33 - Eval set: Average loss: 0.676655, Average loss0: 0.428482, Average loss1: 0.174586, Average loss2: 0.039670, Average loss3: 0.033916, AUC0: 0.685202, AUC1: 0.681046, AUC2: 0.492012, AUC3: 0.501804
+2023-04-10 11:24:00.301 | INFO     | __main__:train:17 - Epoch: [35/100], Step: [1/399], Lr: 0.000001, loss0: 0.362196, loss1: 0.104140, loss2: 0.008626, loss3: 0.006351, loss: 0.481312
+2023-04-10 11:24:13.089 | INFO     | __main__:train:17 - Epoch: [35/100], Step: [101/399], Lr: 0.000001, loss0: 0.384352, loss1: 0.132656, loss2: 0.007974, loss3: 0.005627, loss: 0.530610
+2023-04-10 11:24:25.354 | INFO     | __main__:train:17 - Epoch: [35/100], Step: [201/399], Lr: 0.000001, loss0: 0.372382, loss1: 0.142852, loss2: 0.006224, loss3: 0.004275, loss: 0.525732
+2023-04-10 11:24:37.497 | INFO     | __main__:train:17 - Epoch: [35/100], Step: [301/399], Lr: 0.000001, loss0: 0.359723, loss1: 0.117850, loss2: 0.002544, loss3: 0.001539, loss: 0.481656
+2023-04-10 11:24:51.462 | INFO     | __main__:val:33 - Eval set: Average loss: 0.676847, Average loss0: 0.428514, Average loss1: 0.174640, Average loss2: 0.039728, Average loss3: 0.033965, AUC0: 0.685185, AUC1: 0.680984, AUC2: 0.492048, AUC3: 0.501812
+2023-04-10 11:24:52.714 | INFO     | __main__:train:17 - Epoch: [36/100], Step: [1/399], Lr: 0.000001, loss0: 0.388244, loss1: 0.120471, loss2: 0.004920, loss3: 0.004839, loss: 0.518474
+2023-04-10 11:25:05.366 | INFO     | __main__:train:17 - Epoch: [36/100], Step: [101/399], Lr: 0.000001, loss0: 0.392657, loss1: 0.127138, loss2: 0.010693, loss3: 0.010332, loss: 0.540819
+2023-04-10 11:25:18.285 | INFO     | __main__:train:17 - Epoch: [36/100], Step: [201/399], Lr: 0.000001, loss0: 0.425003, loss1: 0.141315, loss2: 0.005639, loss3: 0.003693, loss: 0.575650
+2023-04-10 11:25:30.598 | INFO     | __main__:train:17 - Epoch: [36/100], Step: [301/399], Lr: 0.000001, loss0: 0.385054, loss1: 0.158594, loss2: 0.009383, loss3: 0.006340, loss: 0.559371
+2023-04-10 11:25:44.779 | INFO     | __main__:val:33 - Eval set: Average loss: 0.676924, Average loss0: 0.428540, Average loss1: 0.174663, Average loss2: 0.039740, Average loss3: 0.033980, AUC0: 0.685197, AUC1: 0.680945, AUC2: 0.491831, AUC3: 0.501496
+2023-04-10 11:25:45.823 | INFO     | __main__:train:17 - Epoch: [37/100], Step: [1/399], Lr: 0.000001, loss0: 0.359942, loss1: 0.135590, loss2: 0.008371, loss3: 0.005246, loss: 0.509149
+2023-04-10 11:25:58.670 | INFO     | __main__:train:17 - Epoch: [37/100], Step: [101/399], Lr: 0.000001, loss0: 0.360405, loss1: 0.122094, loss2: 0.011751, loss3: 0.011467, loss: 0.505716
+2023-04-10 11:26:11.422 | INFO     | __main__:train:17 - Epoch: [37/100], Step: [201/399], Lr: 0.000001, loss0: 0.406633, loss1: 0.141152, loss2: 0.019187, loss3: 0.005735, loss: 0.572707
+2023-04-10 11:26:23.752 | INFO     | __main__:train:17 - Epoch: [37/100], Step: [301/399], Lr: 0.000001, loss0: 0.352572, loss1: 0.137267, loss2: 0.017227, loss3: 0.005148, loss: 0.512214
+2023-04-10 11:26:38.054 | INFO     | __main__:val:33 - Eval set: Average loss: 0.677094, Average loss0: 0.428559, Average loss1: 0.174718, Average loss2: 0.039793, Average loss3: 0.034024, AUC0: 0.685178, AUC1: 0.680876, AUC2: 0.491614, AUC3: 0.501352
+2023-04-10 11:26:39.283 | INFO     | __main__:train:17 - Epoch: [38/100], Step: [1/399], Lr: 0.000001, loss0: 0.387333, loss1: 0.149896, loss2: 0.014990, loss3: 0.003546, loss: 0.555764
+2023-04-10 11:26:51.839 | INFO     | __main__:train:17 - Epoch: [38/100], Step: [101/399], Lr: 0.000001, loss0: 0.378848, loss1: 0.141990, loss2: 0.012223, loss3: 0.014041, loss: 0.547102
+2023-04-10 11:27:04.359 | INFO     | __main__:train:17 - Epoch: [38/100], Step: [201/399], Lr: 0.000001, loss0: 0.387581, loss1: 0.148279, loss2: 0.006665, loss3: 0.008791, loss: 0.551317
+2023-04-10 11:27:16.705 | INFO     | __main__:train:17 - Epoch: [38/100], Step: [301/399], Lr: 0.000001, loss0: 0.404572, loss1: 0.135697, loss2: 0.009559, loss3: 0.006578, loss: 0.556407
+2023-04-10 11:27:30.813 | INFO     | __main__:val:33 - Eval set: Average loss: 0.677293, Average loss0: 0.428596, Average loss1: 0.174775, Average loss2: 0.039840, Average loss3: 0.034082, AUC0: 0.685160, AUC1: 0.680846, AUC2: 0.491633, AUC3: 0.501352
+2023-04-10 11:27:32.189 | INFO     | __main__:train:17 - Epoch: [39/100], Step: [1/399], Lr: 0.000001, loss0: 0.356906, loss1: 0.119403, loss2: 0.015730, loss3: 0.010718, loss: 0.502756
+2023-04-10 11:27:44.950 | INFO     | __main__:train:17 - Epoch: [39/100], Step: [101/399], Lr: 0.000001, loss0: 0.365293, loss1: 0.120415, loss2: 0.005907, loss3: 0.002410, loss: 0.494025
