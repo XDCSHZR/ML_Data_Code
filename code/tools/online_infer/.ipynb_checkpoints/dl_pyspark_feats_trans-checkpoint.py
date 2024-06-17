@@ -16,6 +16,17 @@ from pyspark.sql.column import Column, _to_java_column, _to_seq
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 
+# import atexit,os,platform,warnings,py4j
+# from pyspark import SparkConf
+# from pyspark.context import SparkContext
+# from pyspark.sql import SparkSession, SQLContext
+# SparkContext._ensure_initialized()
+# spark = SparkSession._create_shell_session()
+# sc = spark.sparkContext
+# sql = spark.sql
+# sqlContext = spark._wrapped
+# sqlCtx = sqlContext
+
 str_sql_feats = '''
 select 
     -- id

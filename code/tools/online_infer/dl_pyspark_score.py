@@ -56,7 +56,12 @@ insert
     ) 
 select 
     uid, 
+    -- 一般负采样打分修正公式
     score_a / (score_a+(1-score_a)/1.0) as score_01, 
+    -- 链路负采样打分修正公式
+    -- 假设label负样本（前链路）在label_负样本（后链路）中的占比为定值
+    -- r = label负样本 / label_负样本
+    -- s_ = s / (s+(1-s)*(1-r)+(1-s)*r/label负样本采样比例)
     score_b / (score_b+(1-score_b)*(1-0.7717)+(1-score_b)*0.7717/0.5676) as score_02 
 from 
     table_tmp 
